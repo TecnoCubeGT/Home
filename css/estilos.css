@@ -71,6 +71,8 @@ header .textos-header{
     flex-direction: column;
     text-align: center;
 	margin: 10px;
+	
+	text-shadow: -1.5px -1px 0 #000000;  
 }
 
 .textos-header h1{
